@@ -1,28 +1,23 @@
 {
-  "name": "razorpay-clone",
+  "name": "11---razorpay-clone",
   "version": "1.0.0",
-  "description": "razorPayClone",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"vite"
+    "start": "vite",
+    "build": "vite build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/himanshuchhabran/Razorpay-frontend-clone.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/himanshuchhabran/Razorpay-frontend-clone/issues"
-  },
-  "homepage": "https://github.com/himanshuchhabran/Razorpay-frontend-clone#readme",
-  "dependencies": {
-    "vite": "^5.0.10"
-  },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32",
-    "tailwindcss": "^3.4.0"
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.5.3"
+  },
+  "dependencies": {
+    "feather": "^0.0.5",
+    "feather-icons": "^4.29.0"
   }
 }
